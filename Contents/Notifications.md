@@ -13,6 +13,7 @@ Late submissions will not be entertained.
 ---
 
 ### 📅 Upcoming Deadlines
+
 | Task                                  | Due Date       |
 |--------------------------------------|---------------|
 | Finalized Topic Submission           | 22 August 2025 (Friday) | 
