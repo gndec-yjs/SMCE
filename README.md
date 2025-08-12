@@ -12,8 +12,8 @@
 }
 </style>  
 
-<span style="color:red; font-weight:bold;">
-  <span class="flash">All Notifications</span>
+<span style="color:blue; font-weight:bold;">
+  <span class="flash">[All Notifications](Contents/Notifications.md)</span>
 </span>
 
 
