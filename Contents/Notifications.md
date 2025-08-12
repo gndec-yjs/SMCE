@@ -14,11 +14,11 @@ Late submissions will not be entertained.
 
 ### 📅 Upcoming Deadlines
 
-| Task                                  | Due Date       |
-|--------------------------------------|---------------|
-| Finalized Topic Submission           | 22 August 2025 (Friday) | 
-| Submission of First Draft            | DD MM 2025 | 
-| Final Report Submission              | DD MM 2025 | 
+| Task                                  | Due Date       | Submission Link |
+|--------------------------------------|---------------| --- |
+| Finalized Topic Submission           | 22 August 2025 (Friday) | [Click Here](https://gndec-yjs.github.io/SMCE/Contents/final-topic-submission.html) |
+| Submission of First Draft            | DD MM 2025 | [Click Here] |
+| Final Report Submission              | DD MM 2025 | [Click Here] |
 
 ---
 
