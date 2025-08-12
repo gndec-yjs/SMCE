@@ -3,7 +3,7 @@
 | **[Home](README.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[Submit Final Topic](Contents/final-topic-submission.md)** | **[Weekly Progress](Contents/Weekly_2025.md)** | **[Submissions](Contents/Submissions_2025.md)** | **[Contact](Contents/Contact.md)** |  
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
-🚨 Submit your finalized approved topic by **25 August 2025** 🚨
+🚨 Submit your finalized approved topic by **August 22, 2025 (Friday)**
 </span>
 
 <style>
