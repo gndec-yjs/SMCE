@@ -3,6 +3,8 @@
 Welcome!  
 This section is only for submitting your **finalized and approved topic** for your seminar/research/project.
 
+Kindly submit your finalized and approved topic by **August 22, 2025, (Friday)** so we can proceed smoothly with the next steps
+
 ⚠️ **Read before you submit:**
 - Make sure your topic has already been discussed with and approved by your mentor.
 - This form is *only* for final submission, not for brainstorming ideas.
