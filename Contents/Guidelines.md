@@ -166,6 +166,7 @@ Your performance will be assessed on:
 - **Originality** – Proper citations, avoidance of plagiarism
 
 ---
+
 | Task | Weightage |
 |------|-----------|
 | Presentation | **30%** |
@@ -195,5 +196,3 @@ Your performance will be assessed on:
 *Department of Civil Engineering*  
 Guru Nanak Dev Engineering College, Ludhiana
 
-
-If you want, I can also make a **color-coded GitHub-flavored .md version** with icons, emoji for each section, and **progress bar graphics** so students can track their work like a checklist. That will make it feel more like a project tracker than a boring guideline sheet.
