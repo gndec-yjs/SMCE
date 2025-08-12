@@ -8,6 +8,27 @@ This course focuses on building your **presentation skills**, **technical writin
 Below are the **three core tasks** you will complete this semester.
 
 ---
+## O. Early Stage – Topic Orientation & Selection (Week 1–2)
+
+> **Click [here](Choosing_a_topic.md) for guidance on choosing a topic.**
+
+### Guidelines
+- Each student must finalize their topic **with faculty approval**.
+- Use the provided **Topic Selection Template** or form.
+- Ensure the topic:
+  - Is **relevant** to civil engineering.
+  - Has **novelty** and aligns with **current research interest**.
+  - Has **sufficient literature and data** available for review.
+
+---
+
+### **Topic Selection Template**:
+- Title
+- Objectives
+- Scope
+- Expected Outcome
+
+---
 
 ## 📝 1. Preparation of Presentation
 
