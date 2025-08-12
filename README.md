@@ -18,8 +18,8 @@
 </style>
 
 
-<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
-🚨 Submit your finalized approved topic by **August 22, 2025 (Friday)**
+<span style="color:purple; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 Submit your finalized approved topic by August 22, 2025 (Friday)
 </span>
 
 <style>
