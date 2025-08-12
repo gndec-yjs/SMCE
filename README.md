@@ -2,6 +2,17 @@
 
 | **[Home](README.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[Submit Final Topic](Contents/final-topic-submission.md)** | **[Weekly Progress](Contents/Weekly_2025.md)** | **[Submissions](Contents/Submissions_2025.md)** | **[Contact](Contents/Contact.md)** |  
 
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 Submit your finalized approved topic by **25 August 2025** 🚨
+</span>
+
+<style>
+@keyframes blinker {
+  50% { opacity: 0; }
+}
+</style>  
+
+
 ![SMCE](Contents/Images/SMCE.png)
 
 ---
