@@ -8,7 +8,7 @@ This course focuses on building your **presentation skills**, **technical writin
 Below are the **three core tasks** you will complete this semester.
 
 ---
-## O. Early Stage – Topic Orientation & Selection (Week 1–2)
+## 💡0. Early Stage – Topic Orientation & Selection (Week 1–2)
 
 > **Click [here](Choosing_a_topic.md) for guidance on choosing a topic.**
 
