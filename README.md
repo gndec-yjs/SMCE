@@ -1,13 +1,3 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-W0B3ZPYVM1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-W0B3ZPYVM1');
-</script>
-
 # Seminar and Technical Report Writing for Engineers
 
 | **[Home](README.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[Submit Final Topic](Contents/final-topic-submission.md)** | **[Weekly Progress](Contents/Weekly_2025.md)** | **[Submissions](Contents/Submissions_2025.md)** | **[Contact](Contents/Contact.md)** |  
@@ -35,4 +25,6 @@
 *Disclaimer: All rights and credits reserved to the respective owner(s) of the uploaded content/images. The uploaded content is solely for educational purpose. If you are the main copyright owner, contact to claim credit or content removal.*
 
 ---
+
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gndec-yjs/SMCE&title=Visitors)
 
