@@ -26,6 +26,5 @@
 
 ---
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://gndec-yjs.github.io/SMCE&title=Page%20Visitors" />
 
 
