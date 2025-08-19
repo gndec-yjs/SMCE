@@ -5,6 +5,7 @@ These guidelines will help you prepare a **comprehensive review paper (a technic
 
 ## 1. General Instructions
 
+* Click here to download [Technical Paper Template.](Technical_Paper_Template.docx) 
 * Paper type: **Comprehensive Review Paper** (not experimental work).
 * File format: **Word (.docx)** + **PDF**.
 * Use **Mendeley** (or Zotero/EndNote) to insert in-text citations and automatically generate the reference list.
