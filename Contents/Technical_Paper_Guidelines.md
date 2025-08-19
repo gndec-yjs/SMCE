@@ -23,7 +23,7 @@ These guidelines will help you prepare a **comprehensive review paper (a technic
 
 ### (b) Authors & Affiliation
 
-* Full name, roll number, department, institute.
+* Full name, department, institute, Email Id.
 
 ### (c) Abstract (200–300 words)
 
