@@ -8,7 +8,8 @@
    
 3. **[Technical Paper Guidelines](Technical_Paper_Guidelines.md)**  
    - Step-by-step instructions for writing and formatting research/technical papers.  
-   - Includes referencing style, figures, tables, and submission standards.  
+   - Includes referencing style, figures, tables, and submission standards.
+   - Includes [Technical Paper Template.](Technical_Paper_Template.docx) 
 
 ---
 
