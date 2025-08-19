@@ -26,5 +26,5 @@
 
 ---
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgndec-yjs.github.io%2FSMCE&title=Visitors&icon=github&color=blue)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=gndec-yjs.SMCE)
 
