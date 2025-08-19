@@ -1,6 +1,6 @@
 # Technical Paper Writing Guidelines
 
-These guidelines will help you prepare a **comprehensive review paper** on your chosen topic in **APA style**.
+These guidelines will help you prepare a **comprehensive review paper (a technical paper)** on your chosen topic.
 
 
 ## 1. General Instructions
