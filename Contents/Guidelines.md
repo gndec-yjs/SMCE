@@ -1,6 +1,6 @@
 # Guidelines
 
-1. **[Beginner Guide](Beginner_Guide.md)**  
+1. **[Beginner's Guide](Beginner_Guide.md)**  
    - An introduction to the course.      
 
 2. **[Choosing a Topic](Choosing_a_topic.md)**  
