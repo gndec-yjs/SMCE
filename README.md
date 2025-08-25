@@ -7,7 +7,7 @@
 </span>  
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
-- 🚨 Submit your finalized approved topic by August 22, 2025 (Friday) - [Click Here](https://gndec-yjs.github.io/SMCE/Contents/final-topic-submission.html)
+🚨 Submit your finalized approved topic by August 22, 2025 (Friday) - [Click Here](https://gndec-yjs.github.io/SMCE/Contents/final-topic-submission.html)
 </span>
 
 <style>
