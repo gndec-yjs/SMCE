@@ -3,6 +3,10 @@
 | **[Home](README.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[Submit Final Topic](Contents/final-topic-submission.md)** | **[Weekly Progress](Contents/Weekly_2025.md)** | **[Submissions](Contents/Submissions_2025.md)** | **[Contact](Contents/Contact.md)** |  
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+📢 Start working on your technical paper following the guidelines and template on the website. First draft submission is due September 15, 2025. Mid-review and guidance sessions will be held during the 1st and 2nd week of September. Make sure to plan your work accordingly. - [Click Here for guidelines](https://gndec-yjs.github.io/SMCE/Contents/Technical_Paper_Guidelines.html)
+</span>  
+
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
 📢 Be ready with your short introductory presentations starting Monday, August 25, 2025. Presentations will be conducted during Week 4 (August 25–29, 2025) - [Click Here for more details](https://gndec-yjs.github.io/SMCE/Contents/Short_Presentation_Guidelines.html)
 </span>  
 
