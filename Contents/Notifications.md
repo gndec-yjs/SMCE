@@ -9,7 +9,7 @@
   Students must **submit their first draft of the technical paper** using the official Google Form.
 
   * **Deadline:** **September 19, 2025 (Friday), 11:59 PM**
-  * **Submission Link:** [Click Here](https://forms.gle/example-draft-submission)
+  * **Submission Link:** [Click Here](https://docs.google.com/forms/d/e/1FAIpQLSf4ec3DmW6GFLqhlKH8nIDbc-_ylny2JpvwzqrK_HSvWwwsFw/viewform?usp=sharing&ouid=101221929860157528159)
 
 * **Technical Paper / Manuscript Writing**
   Students are expected to **start writing their technical paper** following the **guidelines and template** on the course website.
