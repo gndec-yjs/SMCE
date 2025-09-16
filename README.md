@@ -1,6 +1,6 @@
 # Seminar and Technical Report Writing for Engineers
 
-| **[Home](README.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[Submit Final Topic](Contents/final-topic-submission.md)** | **[Weekly Progress](Contents/Weekly_2025.md)** | **[Submissions](Contents/Submissions_2025.md)** | **[Contact](Contents/Contact.md)** |  
+| **[Home](README.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[Submit Final Topic](Contents/final-topic-submission.md)** | **[All Notifications](Contents/Notifications.md)** | **[Contact](Contents/Contact.md)** |  
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
 🚨 Submit your First Draft of the Technical Paper by <u>September 19, 2025 (Friday), 11:59 PM</u> using the provided Google Form. 
