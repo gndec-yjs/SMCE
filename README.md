@@ -3,6 +3,12 @@
 | **[Home](README.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[Submit Final Topic](Contents/final-topic-submission.md)** | **[Weekly Progress](Contents/Weekly_2025.md)** | **[Submissions](Contents/Submissions_2025.md)** | **[Contact](Contents/Contact.md)** |  
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 Submit your First Draft of the Technical Paper by <u>September 19, 2025 (Friday), 11:59 PM</u> using the provided Google Form. 
+Students must upload their draft as a PDF in Google Drive, set it to <i>“Anyone with the link → Viewer”</i>, and share the view-only link through the form.  
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf4ec3DmW6GFLqhlKH8nIDbc-_ylny2JpvwzqrK_HSvWwwsFw/viewform?usp=sharing&ouid=101221929860157528159" style="color:yellow;">Click Here to Submit</a>
+</span>
+
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
 📢 Start working on your technical paper following the guidelines and template on the website. First draft submission is due <s>September 15, 2025</s> ➝ <u>September 19, 2025 (Friday), 11:59 PM</u>. Mid-review and guidance sessions will be held during the 1st and 2nd week of September. Make sure to plan your work accordingly. - <a href="https://gndec-yjs.github.io/SMCE/Contents/Technical_Paper_Guidelines.html" style="color:yellow;">Click Here for guidelines</a>
 </span>
 
