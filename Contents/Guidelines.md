@@ -27,10 +27,12 @@
    * Includes formatting rules (fonts, numbering, captions, consistency).
    * Covers delivery skills, evaluation criteria, and provides a [Downloadable Presentation Template.](Seminar_Presentation_Template.pptx)
 
----
+6. **[Final Seminar Report / Report Writing Guidelines](Report_Guidelines.md)**
 
-## 📝 Upcoming Guidelines
+   * Step-by-step instructions for preparing the **final seminar report**.
+   * Covers structure: Title Page, Abstract, Acknowledgements, Table of Contents, List of Figures, List of Tables, Chapters (Introduction, Literature Review, Methodology, Results/Discussion, Conclusions & Future Scope), References, and Appendices (if required).
+   * Includes formatting guidelines (fonts, line spacing, numbering, captions, headings, subheadings, and page numbering).
+   * Provides guidance on proper citations, reference management (Mendeley, Zotero, EndNote), and professional presentation of the report.
+   * Notes that additional chapters may be added as needed, with properly numbered headings and subheadings.
 
-* **Report Writing Guidelines**
-  (Tips for writing lab reports, dissertations, and project reports)
 
