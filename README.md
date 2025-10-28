@@ -38,10 +38,6 @@ Students must upload their draft as a PDF in Google Drive, set it to <i>“Anyon
 }
 </style>  
 
-<span style="color:blue; font-weight:bold;">
-  <span class="flash">[All Notifications](Contents/Notifications.md)</span>
-</span>
-
 
 
 ![SMCE](Contents/Images/SMCE.png)
