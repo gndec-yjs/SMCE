@@ -30,6 +30,7 @@
 6. **[Final Seminar Report / Report Writing Guidelines](Report_Guidelines.md)**
 
    * Step-by-step instructions for preparing the **final seminar report**.
+   * Provides a [Downloadable Seminar Report Template.](Seminar_Report_Template.docx)
    * Covers structure: Title Page, Abstract, Acknowledgements, Table of Contents, List of Figures, List of Tables, Chapters (Introduction, Literature Review, Methodology, Results/Discussion, Conclusions & Future Scope), References, and Appendices (if required).
    * Includes formatting guidelines (fonts, line spacing, numbering, captions, headings, subheadings, and page numbering).
    * Provides guidance on proper citations, reference management (Mendeley, Zotero, EndNote), and professional presentation of the report.
