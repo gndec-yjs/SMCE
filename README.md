@@ -2,6 +2,19 @@
 
 | **[Home](README.md)** | **[Syllabus](Contents/Syllabus.md)** | **[Guidelines](Contents/Guidelines.md)** | **[Submit Final Topic](Contents/final-topic-submission.md)** | **[All Notifications](Contents/Notifications.md)** | **[Contact](Contents/Contact.md)** |  
 
+
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+📘 Submit your <b>Final Seminar Report</b> by <u>November 03, 2025 (Monday), 11:59 PM</u> using the provided Google Form.  
+Students must upload their properly formatted <b>Final Report (PDF)</b> to Google Drive, set it to <i>“Anyone with the link → Viewer”</i>, and share the <b>view-only link</b> through the form.  
+[Click Here to Submit](https://forms.gle/XJr43Rygmxjxj3mW9)
+</span>
+
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+🚨 Submit your Final Seminar Presentation by <u>November 03, 2025 (Monday), 11:59 PM</u> using the provided Google Form. 
+Students must upload their **Final Presentation (PPT/PDF)** file to **Google Drive**, set it to <i>“Anyone with the link → Viewer”</i>, and share the view-only link through the form. 
+[Click Here to Submit](https://forms.gle/8BFDE5fxJXjpQcAR9)
+</span>
+
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
 🚨 Submit your First Draft of the Technical Paper by <u>September 19, 2025 (Friday), 11:59 PM</u> using the provided Google Form. 
 Students must upload their draft as a PDF in Google Drive, set it to <i>“Anyone with the link → Viewer”</i>, and share the view-only link through the form. [Click Here to Submit](https://docs.google.com/forms/d/e/1FAIpQLSf4ec3DmW6GFLqhlKH8nIDbc-_ylny2JpvwzqrK_HSvWwwsFw/viewform?usp=sharing&ouid=101221929860157528159)
