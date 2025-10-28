@@ -4,7 +4,7 @@
 
 ## Final Seminar Report Template (Downloadable)
 
-📂 [Download Final Seminar Report Template (.docx)](Final_Seminar_Report_Template.docx)
+📂 [Download Final Seminar Report Template (.docx)](Seminar_Report_Template.docx)
 
 > ⚠️ **Note:** This template is provided as a **sample format**.  
 > Students may **add or rename chapters** based on their topic and research scope.  
@@ -126,7 +126,7 @@ Reports will be evaluated based on:
 
 ## Final Seminar Report Template (Downloadable)
 
-📂 [Download Final Seminar Report Template (.docx)](Final_Seminar_Report_Template.docx)
+📂 [Download Final Seminar Report Template (.docx)](Seminar_Report_Template.docx)
 
 > ⚠️ **Note:** This template is provided as a **sample format**.  
 > Students may **add or rename chapters** based on their topic and research scope.  
