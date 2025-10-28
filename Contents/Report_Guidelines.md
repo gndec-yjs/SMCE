@@ -2,6 +2,17 @@
 
 **Course:** SMCE201 – Seminar & Technical Report Writing for Engineers
 
+## Final Seminar Report Template (Downloadable)
+
+📂 [Download Final Seminar Report Template (.docx)](Final_Seminar_Report_Template.docx)
+
+> ⚠️ **Note:** This template is provided as a **sample format**.  
+> Students may **add or rename chapters** based on their topic and research scope.  
+> Ensure that **headings and subheadings are properly numbered**, and that pages are numbered sequentially —  
+> preliminary pages using *Roman numerals (i, ii, iii...)* and main content using *Arabic numerals (1, 2, 3...)*.  
+> You may also **customize styles, formatting, and layout** to reflect your creativity and presentation preferences,  
+> while maintaining **professional and academic standards**.
+
 ## 1. Purpose
 
 The **Final Seminar Report** is the culmination of your seminar work. It should systematically present your chosen and approved topic, including background, literature review, methodology (if applicable), results/discussion, and conclusions. The report must demonstrate originality, proper structure, technical accuracy, and professional formatting.
@@ -112,6 +123,17 @@ Reports will be evaluated based on:
 * **Conclusions & Relevance** – Practical implications and future scope.
 
 ---
+
+## Final Seminar Report Template (Downloadable)
+
+📂 [Download Final Seminar Report Template (.docx)](Final_Seminar_Report_Template.docx)
+
+> ⚠️ **Note:** This template is provided as a **sample format**.  
+> Students may **add or rename chapters** based on their topic and research scope.  
+> Ensure that **headings and subheadings are properly numbered**, and that pages are numbered sequentially —  
+> preliminary pages using *Roman numerals (i, ii, iii...)* and main content using *Arabic numerals (1, 2, 3...)*.  
+> You may also **customize styles, formatting, and layout** to reflect your creativity and presentation preferences,  
+> while maintaining **professional and academic standards**.
 
 ✅ *Follow these guidelines carefully. Reports not adhering to structure, formatting, or citation rules may be returned for revision.*
 
