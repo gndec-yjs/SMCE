@@ -4,6 +4,10 @@
 
 
 <span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
+📘 Due date to submit <b>Final Seminar Report</b> and <b>Final Seminar Presentation</b> is extended to <u>November 14, 2025 (Friday), 11:59 PM.</u>
+</span>
+
+<span style="color:red; font-weight:bold; animation: blinker 1s linear infinite;">
 📘 Submit your <b>Final Seminar Report</b> by <u>November 03, 2025 (Monday), 11:59 PM</u> using the provided Google Form.  
 Students must upload their properly formatted <b>Final Report (PDF)</b> to Google Drive, set it to <i>“Anyone with the link → Viewer”</i>, and share the <b>view-only link</b> through the form.  
 [Click Here to Submit](https://forms.gle/XJr43Rygmxjxj3mW9)
